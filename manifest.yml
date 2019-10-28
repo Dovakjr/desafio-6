@@ -1,5 +1,5 @@
 applications:
-- name: rm79346
+- name: 079346-desafio6-behindthecode
   memory: 256M
   instances: 1
   buildpack: sdk-for-nodejs
